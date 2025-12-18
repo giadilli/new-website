@@ -3,14 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: Olivia Guest
+name: Giada Pistilli
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus: oliviaguest
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-42657104-1
+# Google Analytics disabled
+# google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -48,3 +48,4 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
+    - vendor

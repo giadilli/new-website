@@ -1,720 +1,201 @@
-- date: 2014-01-01
-  type: journal
-  status: published
-  authors: Cooper, R. P. & <b>Guest, O.</b>
-  title: 'Implementations are not specifications: specification, replication and experimentation in computational cognitive modeling'
-  journal: Cognitive Systems Research
-  doi: 10.1016/j.cogsys.2013.05.001
-  pdf: /doc/cooper_14.pdf
-  selected: 1
-  tags:
-    - meta
-
-- date: 2016-06-13
-  type: journal
-  status: published
-  authors: <b>Guest, O.</b>
-  title: 'Crisis in What Exactly?'
-  journal: The Winnower
-  doi: 10.15200/winn.146590.01538
-  pdf: https://winnower-production.s3.amazonaws.com/papers/4825/v2/pdf/4825-crisis-in-what-exactly.pdf
-  selected: 0
-
-- date: 2015-01-01
-  type: journal
-  status: published
-  authors: Love, B. C., Kopeć, Ł., & <b>Guest, O.</b>
-  title: 'Optimism bias in fans and sports reporters'
-  journal: PLoS ONE
-  doi: 10.1371/journal.pone.0137685
-  pdf: https://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0137685&representation=PDF
-  selected: 0
-  osf: 3xrfa
-
-- date: 2016-09-01
-  type: misc
-  status: published
-  authors: <b>Guest, O.</b> & Rougier, N. P.
-  title: 'Dialogue: What is Computational Reproducibility?'
-  journal: IEEE CIS Newsletter on Cognitive and Developmental Systems
-  pdf: https://openlab-flowers.inria.fr/uploads/default/original/1X/65addc14bb2a6a7feaf7690865fa3708d5b0990f.pdf
-  github: oliviaguest/what-is-computational-reproducibility
-  selected: 0
-  tags: 
-   - meta
-
-- date: 2017-01-01
-  type: journal
-  status: published
-  authors:  <b>Guest, O.</b> & Love, B. C.
-  title: 'What the success of brain imaging implies about the neural code'
-  journal: eLife
-  doi: '10.7554/eLife.21397'
-  pdf: 'https://elifesciences.org/content/6/e21397-download.pdf'
-  link: https://elifesciences.org/content/6/e21397
-  biorxiv: https://www.biorxiv.org/content/early/2016/09/09/071076
-  comments: https://www.biorxiv.org/content/early/2016/08/24/071076#comment-2858281853
-  osf: v8baz
-  github: oliviaguest/brain-imaging-and-the-neural-code
-  figshare: 'articles/What_the_Success_of_Brain_Imaging_Implies_about_the_Neural_Code/4252022'
-  selected: 0
-
-- date: 2016-09-09
+- date: 2025-08-20
   type: preprint
   status: published
-  authors:  <b>Guest, O.</b> & Love, B. C.
-  title: 'What the success of brain imaging implies about the neural code'
-  server: bioRxiv
-  doi: '10.1101/071076'
-  biorxiv: https://www.biorxiv.org/content/early/2016/09/09/071076
-  comments: https://www.biorxiv.org/content/early/2016/08/24/071076#comment-2858281853
-  osf: v8baz
-  github: oliviaguest/brain-imaging-and-the-neural-code
-  figshare: 'articles/What_the_Success_of_Brain_Imaging_Implies_about_the_Neural_Code/4252022'
-  selected: 0
-
-- date: 2017-12-18
-  type: journal
-  status: published
-  authors: Rougier, N. P. et al.
-  title: 'Sustainable computational science: the ReScience initiative'
-  journal: PeerJ Computer Science
-  doi: 10.7717/peerj-cs.142
-  pdf: https://peerj.com/articles/cs-142.pdf
-  link: https://peerj.com/articles/cs-142/
-  arxiv: https://arxiv.org/abs/1707.04393
-  github: ReScience/ReScience-article-2
-  selected: 0
-
-# - date: 2017-12-18
-#   type: preprint
-#   status: published
-#   authors: Rougier, N. P. et al.
-#   title: 'Sustainable computational science: the ReScience initiative'
-#   server: arXiv
-#   arxiv-id: 1707.04393
-#   link: https://arxiv.org/abs/1707.04393
-#   arxiv: https://arxiv.org/abs/1707.04393
-#   github: ReScience/ReScience-article-2
-#   selected: 0
-
-- date: 2019-05-04
-  type: preprint
-  status: unpublished
-  authors: <b>Guest, O.</b> & Love, B. C.
-  title: 'Levels of representation in a deep learning model of categorization'
-  biorxiv: https://www.biorxiv.org/content/10.1101/626374v1
-  doi: '10.1101/626374'
-  server: bioRxiv
-  osf: jxavn
-  github: oliviaguest/levels-of-representation-in-a-deep-learning-model-of-categorization
-  pdf: https://www.biorxiv.org/content/10.1101/626374v1.full.pdf
-  selected: 0
-
-- date: 2019-08-13
-  type: journal
-  status: published
-  journal: Journal of Computational Social Science
-  authors: <b>Guest, O.</b>, Kanayet, F. J., & Love, B. C.
-  title: 'Gerrymandering and computational redistricting'
-  arxiv: https://arxiv.org/abs/1711.04640
-  osf: 5fepu
-  doi:  10.1007/s42001-019-00053-9
-  pdf: https://link.springer.com/content/pdf/10.1007%2Fs42001-019-00053-9.pdf
-  github: oliviaguest/redistrict
-  figshare: 'articles/Gerrymandering_and_Computational_Redistricting/5605387'
-  website: https://redistrict.science
-  video: https://www.youtube.com/watch?v=UDqLJovk9ek
-  selected: 0
-
-- date: 2017-11-13
-  type: preprint
-  status: published
-  authors: <b>Guest, O.</b>, Kanayet, F. J., & Love, B. C.
-  title: 'Gerrymandering and computational redistricting'
-  arxiv: https://arxiv.org/abs/1711.04640
-  arxiv-id: '1711.04640'
-  osf: 5fepu
+  authors: Kaffee, L. A., <b>Pistilli, G.</b>, & Jernite, Y.
+  title: 'INTIMA: A Benchmark for Human-AI Companionship Behavior'
   server: arXiv
-  pdf: https://link.springer.com/content/pdf/10.1007%2Fs42001-019-00053-9.pdf
-  github: oliviaguest/redistrict
-  figshare: 'articles/Gerrymandering_and_Computational_Redistricting/5605387'
-  website: https://redistrict.science
-  selected: 0
-
-# - date: 2019-11-15
-#   type: preprint
-#   status: published
-#   authors: Botvinik-Nezer, R. et al.
-#   title: 'Variability in the analysis of a single neuroimaging dataset by many teams'
-#   bioRxiv: https://www.biorxiv.org/content/10.1101/843193v1
-#   server: bioRxiv
-#   pdf: https://www.biorxiv.org/content/biorxiv/early/2019/11/15/843193.full-text.pdf
-#   website: https://narps.info
-#   doi: 10.1101/843193
-#   github: poldrack/narps
-#   selected: 0
-
-- date: 2020-07-01
-  type: journal
-  status: published
-  authors: <b>Guest, O.</b>, Caso, A., & Cooper, R. P.
-  title: 'On Simulating Neural Damage in Connectionist Networks'
-  doi: 10.1007/s42113-020-00081-z
-  pdf: https://link.springer.com/content/pdf/10.1007/s42113-020-00081-z.pdf
-  journal: Computational Brain & Behavior
-  github: oliviaguest/simulating-damage-in-networks
+  url: https://arxiv.org/abs/2508.09998
+  pdf: https://arxiv.org/pdf/2508.09998
   selected: 1
-  tags:
-   - meta
-
-- date: 2020-05-20
-  type: journal
-  status: published
-  authors: Botvinik-Nezer, R. et al.
-  title: 'Variability in the analysis of a single neuroimaging dataset by many teams'
-  bioRxiv: https://www.biorxiv.org/content/10.1101/843193v1
-  journal: Nature
-  pdf: https://www.nature.com/articles/s41586-020-2314-9.pdf
-  website: https://narps.info
-  doi: 10.1038/s41586-020-2314-9
-  github: poldrack/narps
-  selected: 0
-
-- date: 2020-10-13
-  type: magazine
-  status: published
-  authors: Whitaker, K. J. & <b>Guest, O.</b>
-  title: "#bropenscience is broken science"
-  url: https://thepsychologist.bps.org.uk/volume-33/november-2020/bropenscience-broken-science
-  pdf: https://thepsychologist.bps.org.uk/getfile/10906
-  journal: The Psychologist
-  doi: 10.5281/zenodo.4099011
-  selected: 0
-  tags:
-     - meta
-
-- date: 2020-10-21
-  type: journal
-  status: published
-  authors: Bobadilla Suarez, S., <b>Guest, O.</b>, & Love, B. C.
-  title: 'Subjective value and decision entropy are jointly encoded by aligned gradients across the human brain'
-  bioRxiv: https://doi.org/10.1101/2020.02.18.954362
-  server: bioRxiv
-  journal: Communications Biology
-  pdf: https://www.nature.com/articles/s42003-020-01315-3.pdf
-  doi: 10.1038/s42003-020-01315-3
-  selected: 0
-
-- date: 2021-01-01
-  type: journal
-  status: published
-  authors:  Barlas, P., Kyriakou, K., <b>Guest, O.</b>, Kleanthous, S., & Otterbacher, J.
-  title: 'To "See" is to Stereotype: Image Tagging Algorithms, Gender Recognition, and the Accuracy-Fairness Trade-off'
-  pdf: /doc/barlas_et_al_21.pdf
-  journal: Proceedings of the ACM on Human-Computer Interaction
-  doi: 10.1145/3432931
-  selected: 0
-  tags:
-    - crit
-
-- date: 2021-01-22
-  type: journal
-  status: published
-  authors: <b>Guest, O.</b> & Martin, A. E.
-  title: 'How Computational Modeling Can Force Theory Building in Psychological Science'
-  PsyArXiv: https://psyarxiv.com/rybh9/
-  server: PsyArXiv
-  journal: Perspectives on Psychological Science
-  pdf: /doc/guest_martin_21.pdf
-  doi: 10.1177/1745691620970585
-  video: https://www.youtube.com/watch?v=_WV7EFvFAB8
-  figshare: 'articles/How_computational_modeling_can_force_theory_building_in_psychological_science/12600815'
-  selected: 1
-  tags:
-    - meta
-
-- date: 2021-02-09
-  type: journal
-  status: published
-  authors: Birhane, A. & <b>Guest, O.</b>
-  title: 'Towards Decolonising Computational Sciences'
-  arxiv: https://arxiv.org/abs/2009.14258
-  arxiv-id: '2009.14258'
-  journal: 'Women, Gender & Research'
-  doi: 10.7146/kkf.v29i2.124899
-  pdf: https://arxiv.org/pdf/2009.14258
-  server: arXiv
-  selected: 1
-  tags:
-    - crit
-    - meta
-    - cail
-
-- date: 2021-03-24
-  type: journal
-  status: published
-  authors: Levitis, E. et al.
-  title: 'Centering inclusivity in the design of online conferences—An OHBM–Open Science perspective'
-  doi: 10.1093/gigascience/giab051
-  PsyArXiv: https://psyarxiv.com/vj5tu/
-  pdf: https://academic.oup.com/gigascience/article-pdf/10/8/giab051/39810945/giab051.pdf
-  journal: Gigascience
-  server: PsyArXiv
-  selected: 0
-
-# - date: 2021-10-05
-#   type: preprint
-#   status: published
-#   authors: Forbes, S. H., Aneja, P., & <b>Guest, O.</b>
-#   title: 'The Myth of Normative Development'
-#   doi: 10.31234/osf.io/ajynp
-#   PsyArXiv: https://psyarxiv.com/ajynp
-#   pdf: https://psyarxiv.com/ajynp/download
-#   server: PsyArXiv
-#   selected: 1
-#   tags:
-#     - meta
-
-- date: 2022-02-17
-  type: preprint
-  status: unpublished
-  authors: Spanton, R. W. & <b>Guest, O.</b>
-  title: 'Measuring Trustworthiness or Automating Physiognomy? A Comment on Safra, Chevallier, Grèzes, and Baumard (2020)'
-  doi: 10.48550/arXiv.2202.08674
-  pdf: https://arxiv.org/pdf/2202.08674
-  arxiv: https://arxiv.org/abs/2202.08674
-  server: arXiv
-  selected: 0
-  tags:
-    - crit
-    - meta
-
-- date: 2022-12-23
-  type: journal
-  status: published
-  authors: Forbes, S. H., Aneja, P., & <b>Guest, O.</b>
-  title: 'The Myth of Normative Development'
-  doi: 10.1002/icd.2393
-  PsyArXiv: https://psyarxiv.com/ajynp
-  pdf: https://psyarxiv.com/ajynp/download
-  journal: Infant and Child Development
-  server: PsyArXiv
-  selected: 0
-  tags:
-    - meta
-
-
-- date: 2023-02-11
-  type: preprint
-  status: unpublished
-  authors: Erscoi, L., Kleinherenbrink, A., & <b>Guest, O.</b>
-  title: 'Pygmalion Displacement: When Humanising AI Dehumanises Women'
-  doi: 10.31235/osf.io/jqxb6
-  SocArXiv: https://osf.io/preprints/socarxiv/jqxb6
-  pdf: https://osf.io/preprints/socarxiv/jqxb6/download
-  # pdf: /doc/ErscoiKleinherenbrinkGuest2023.pdf
-  server: SocArXiv
-  selected: 1
-  tags:
-    - crit
-    - cail
-
-
-- date: 2023-02-13 
-  type: journal
-  status: published
-  authors: <b>Guest, O.</b> & Martin, A. E.
-  title: 'On Logical Inference over Brains, Behaviour, and Artificial Neural Networks'
-  doi: 10.1007/s42113-022-00166-x
-  PsyArXiv: https://psyarxiv.com/tbmcg
-  pdf: https://link.springer.com/content/pdf/10.1007/s42113-022-00166-x.pdf
-  server: PsyArXiv
-  journal: Computational Brain & Behavior
-  selected: 1
-  tags: 
-    - meta
-    - cail
-
-- date: 2024-01-24 
-  type: journal
-  status: published
-  authors: <b>Guest, O.</b>
-  title: 'What Makes a Good Theory, and How Do We Make a Theory Good?'
-  doi: 10.1007/s42113-023-00193-2
-  PsyArXiv: https://psyarxiv.com/8fxds
-  pdf: https://link.springer.com/content/pdf/10.1007/s42113-023-00193-2.pdf
-  server: PsyArXiv
-  journal: Computational Brain & Behavior
-  video: https://www.youtube.com/watch?v=67X0TpnQeO0
-  selected: 1
-  tags: 
-    - meta
-    - crit
-
-- date: 2024-05-28 
-  type: journal
-  status: published
-  authors: van der Gun, L. & <b>Guest, O.</b>
-  title: 'Artificial Intelligence: Panacea or Non-intentional Dehumanisation?'
-  doi: 10.59490/jhtr.2024.2.7272
-  PsyArXiv: https://osf.io/preprints/socarxiv/rh4fw
-  pdf: https://osf.io/preprints/socarxiv/rh4fw/download
-  server: SocArXiv
-  journal: Journal of Human-Technology Relations
-  selected: 1
-  tags: 
-    - meta
-    - crit
-    - cail 
-
-- date: 2024-09-27 
-  type: article
-  status: published
-  authors: van Rooij, I., <b>Guest, O.</b>, Adolfi, F. G., de Haan, R., Kolokolova, A., & Rich, P.
-  title: 'Reclaiming AI as a theoretical tool for cognitive science'
-  doi: 10.1007/s42113-024-00217-5
-  journal: Computational Brain & Behavior
-  PsyArXiv: https://psyarxiv.com/4cbuv
-  server: PsyArXiv
-  pdf: https://link.springer.com/content/pdf/10.1007/s42113-024-00217-5.pdf
-  selected: 1
-  video: https://youtu.be/akuJqk2tDPo?si=-qKb7x6sZOqhrrQN
-  tags: 
-    - meta
-    - crit
-    - cail
-
-- date: 2024-09-01 
-  type: journal
-  status: published
-  authors: <b>Guest, O.</b> & Forbes, S. H. 
-  title: 'Teaching coding inclusively: if this, then what?'
-  doi: 10.5117/TVGN2024.2-3.007.GUES
-  PsyArXiv: https://osf.io/preprints/socarxiv/3r2ez/
-  server: SocArXiv
-  pdf: https://osf.io/3r2ez_v1/download/
-  # pdf: /doc/ForbesGuest2024.pdf
-  # pdf: https://www.aup-online.com/content/journals/10.5117/TVGN2024.2-3.007.GUES#
-  journal: Tijdschrift voor Genderstudies
-  selected: 1
-  video: https://media.ed.ac.uk/media/Olivia%20Guest%20and%20Sam%20Forbes%20%E2%80%93%20Inclusivity%20in%20teaching%20programming/1_te5m3m22
-
-- date: 2025-10-17 
-  type: journal
-  status: published
-  authors: <b>Guest, O.</b> & Martin, A. E.
-  title: 'A Metatheory of Classical and Modern Connectionism'
-  doi: 10.1037/rev0000591
-  PsyArXiv: https://psyarxiv.com/eaf2z
-  server: Psychological Review
-  # pdf: https://psycnet.apa.org/fulltext/2026-75212-001.pdf
-  pdf: https://repository.ubn.ru.nl/bitstream/handle/2066/324757/324757.pdf?sequence=1&isAllowed=y
-  selected: 1
-  tags: 
-    - meta
-    - crit
-    - cail
-
-- date: 2025-02-27
-  type: preprint
-  status: unpublished
-  authors: <b>Guest, O.</b> & Martin, A. E.
-  title: Are Neurocognitive Representations 'Small Cakes'?
-  server: PhilSci-Archive
-  pdf: https://philsci-archive.pitt.edu/24834/1/GuestMartin2025.pdf
-  url: https://philsci-archive.pitt.edu/24834
-  # server: PhilArchive
-  # pdf: https://philpapers.org/go.pl?id=GUEANR&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FGUEANR.pdf
-  # url: https://philpapers.org/rec/GUEANR
-  selected: 1
-  tags:
-    - meta
-    - crit
 
 - date: 2025-04-01
+  type: conference
+  status: published
+  authors: Mitchell, M., Attanasio, G., Baldini, I., Clinciu, M., Clive, J., Delobelle, P., Dey, M., Hamilton, S., Dill, T., Doughman, J., Dutt, R., Ghosh, A., Forde, J., Holtermann, C., Kaffee, L., Laud, T., Lauscher, A., Lopez-Davila, R., Masoud, M., Nangia, N., Ovalle, A., <b>Pistilli, G.</b>, et al.
+  title: 'SHADES: Towards a Multilingual Assessment of Stereotypes in Large Language Models'
+  journal: Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)
+  url: https://aclanthology.org/2025.naacl-long.600/
+  pdf: https://aclanthology.org/2025.naacl-long.600.pdf
+  selected: 1
+
+- date: 2025-02-01
+  type: preprint
+  status: published
+  authors: Luccioni, S., <b>Pistilli, G.</b>, Sefala, R., & Moorosi, N.
+  title: 'Bridging the Gap: Integrating Ethics and Environmental Sustainability in AI Research and Practice'
+  server: arXiv
+  url: https://arxiv.org/abs/2504.00797
+  pdf: https://arxiv.org/pdf/2504.00797
+  selected: 1
+
+- date: 2025-03-01
+  type: preprint
+  status: published
+  authors: Palminteri, S. & <b>Pistilli, G.</b>
+  title: 'The Cognitive Biases Behind Inflationary and Deflationary Claims about Large Language Models'
+  server: PsyArXiv
+  url: https://osf.io/preprints/psyarxiv/26tyu_v2
+  pdf: https://osf.io/26tyu_v2/download/
+  selected: 1
+
+- date: 2025-02-01
+  type: preprint
+  status: published
+  authors: Mitchell, M., Ghosh, A., Luccioni, S., & <b>Pistilli, G.</b>
+  title: 'Fully Autonomous AI Agents Should Not be Developed'
+  server: arXiv
+  url: https://arxiv.org/abs/2502.02649
+  pdf: https://arxiv.org/pdf/2502.02649
+  selected: 1
+
+- date: 2025-01-01
   type: journal
   status: published
-  authors: Forbes, S. H. & <b>Guest, O.</b> 
-  title: To Improve Literacy, Improve Equality in Education, Not Large Language Models
-  doi: 10.1111/cogs.70058
-  pdf: https://philpapers.org/archive/FORTIL.pdf
-  journal: Cognitive Science
+  authors: Nannini, L., Huyskes, D., Panai, E., <b>Pistilli, G.</b>, & Tartaro, A.
+  title: 'Nullius in Explanans: an Ethical Risk Assessment for Explainable AI'
+  journal: Ethics and Information Technology
+  doi: 10.1007/s10676-024-09800-7
+  url: https://link.springer.com/article/10.1007/s10676-024-09800-7
+  pdf: https://trebuchet.public.springernature.app/get_content/bc1658f9-2d63-42e8-808a-14e9e39ce8e7
   selected: 1
-  tags:
-   - cail
 
-
-
-- date: 2025-05-13
-  type: preprint
-  status: unpublished
-  authors: <b>Guest, O.</b>, Scharfenberg, N., & van Rooij, I.
-  title: "Modern Alchemy: Neurocognitive Reverse Engineering"
-  server: PhilSci-Archive
-  pdf: https://philsci-archive.pitt.edu/25289/1/GuestEtAl2025.pdf
-  url: https://philsci-archive.pitt.edu/25289
+- date: 2024-03-01
+  type: thesis
+  status: published
+  authors: <b>Pistilli, G.</b>
+  title: 'For an ethics of conversational Artificial Intelligence'
+  journal: PhD Thesis at Sorbonne Université
+  url: https://theses.hal.science/tel-04627154
+  pdf: https://theses.hal.science/tel-04627154v2/file/Giada%20PISTILLI_oct%202024.pdf
   selected: 1
-  tags:
-    - meta
-    - crit
 
-- date: 2025-05-14
-  type: preprint
-  status: unpublished
-  authors: van Rooij, I. & <b>Guest, O.</b>
-  title: "Combining Psychology with Artificial Intelligence: What could possibly go wrong?"
-  pdf: https://osf.io/aue4m_v1/download/
-  doi: 10.31234/osf.io/aue4m_v1
-  server: PsyArXiv
+- date: 2024-05-01
+  type: conference
+  status: published
+  authors: Constantinides, M., Tahaei, M., Quercia, D., Stumpf, S., Madaio, M., Kennedy, S., Wilcox, L., Vitak, J., Cramer, H., Bogucka, E. P., Baeza-Yates, R., Luger, E., Holbrook, J., Muller, M., Blumenfeld, I. G., & <b>Pistilli, G.</b>
+  title: 'Implications of Regulations on the Use of AI and Generative AI for Human-Centered Responsible Artificial Intelligence'
+  journal: Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '24)
+  doi: 10.1145/3613905.3643979
+  url: https://dl.acm.org/doi/abs/10.1145/3613905.3643979
+  pdf: https://arxiv.org/pdf/2403.00148
   selected: 1
-  tags: 
-  - meta
-  - crit
-  - cail
 
-- date: 2025-07-29
+- date: 2024-10-01
+  type: conference
+  status: published
+  authors: Rocca, R., <b>Pistilli, G.</b>, Maheshwari, K., & Fusaroli, R.
+  title: 'Introducing ELLIPS: An Ethics-Centered Approach to Research on LLM-Based Inference of Psychiatric Conditions'
+  journal: Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES)
+  doi: 10.1609/aies.v7i1.31720
+  url: https://ojs.aaai.org/index.php/AIES/article/view/31720
+  pdf: https://ojs.aaai.org/index.php/AIES/article/view/31720/33887
+  selected: 1
+
+- date: 2024-10-01
+  type: conference
+  status: published
+  authors: <b>Pistilli, G.</b>, Leidinger, A., Jernite, Y., Kasirzadeh, A., Luccioni, A. S., & Mitchell, M.
+  title: 'CIVICS: Building a Dataset for Examining Culturally-Informed Values in Large Language Models'
+  journal: Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES)
+  doi: 10.1609/aies.v7i1.31710
+  url: https://ojs.aaai.org/index.php/AIES/article/view/31710
+  pdf: https://ojs.aaai.org/index.php/AIES/article/view/31710/33877
+  selected: 1
+
+- date: 2024-03-01
+  type: book
+  status: published
+  authors: <b>Pistilli, G.</b>
+  title: 'The Moral Landscape of General-Purpose Large Language Models'
+  journal: 'Human-Centered AI: A Multidisciplinary Perspective for Policy-Makers, Auditors, and Users'
+  doi: 10.1201/9781003320791
+  url: https://www.taylorfrancis.com/chapters/edit/10.1201/9781003320791-9/moral-landscape-general-purpose-large-language-models-giada-pistilli
+  selected: 1
+
+- date: 2023-06-01
+  type: conference
+  status: published
+  authors: <b>Pistilli, G.</b>, Muñoz Ferrandis, C., Jernite, Y., & Mitchell, M.
+  title: 'Stronger Together: On the Articulation of Ethical Charters, Legal Tools, and Technical Documentation in ML'
+  journal: Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT '23)
+  doi: 10.1145/3593013.3594002
+  url: https://dl.acm.org/doi/10.1145/3593013.3594002
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3593013.3594002
+  selected: 1
+
+- date: 2023-05-01
+  type: journal
+  status: published
+  authors: Tenzer, M., <b>Pistilli, G.</b>, Brandsen, A., & Shenfield, A.
+  title: 'Debating AI in archaeology: applications, implications, and ethical considerations'
+  journal: Internet Archaeology
+  doi: 10.31235/osf.io/r2j7h
+  url: https://shura.shu.ac.uk/33307/
+  pdf: https://shura.shu.ac.uk/33307/1/ia.67.8.pdf
+  selected: 1
+
+- date: 2022-11-01
+  type: conference
+  status: published
+  authors: Akiki, C., <b>Pistilli, G.</b>, Mieskes, M., Gallé, M., Wolf, T., Ilic, S., & Jernite, Y.
+  title: 'BigScience: A Case Study in the Social Construction of a Multilingual Large Language Model'
+  journal: Proceedings in NeurIPS 2022 Workshop WBRC
+  pdf: https://openreview.net/pdf?id=2e346l2PPOm
+  selected: 1
+
+- date: 2022-11-01
   type: preprint
-  status: unpublished
-  authors: <b>Guest, O.</b>
-  title: "What Does 'Human-Centred AI' Mean?"
-  pdf: https://arxiv.org/pdf/2507.19960
-  doi: 10.48550/arXiv.2507.19960
+  status: published
+  authors: Le Scao, T., Fan, A., Akiki, C., Pavlick, E. J., Ilic, S., Hesslow, D., Castagne, R., Luccioni, A. S., Yvon, F., Galle, M., Tow, J., Rush, A. M., Biderman, S. R., Webson, A., Ammanamanchi, P. S., Wang, T., Sagot, B., Muennighoff, N., Villanova del Moral, A., Ruwase, O., Bawden, R., Bekman, S., McMillan-Major, A., Beltagy, I., Nguyen, H., Saulnier, L., Tan, S., Ortiz Suarez, P., Sanh, V., Laurenccon, H., Jernite, Y., Launay, J., Mitchell, M., Raffel, C., Gokaslan, A., Simhi, A., Etxabe, A. S., Fikri Aji, A., Alfassy, A., Rogers, A., Kreisberg Nitzav, A., Xu, C., Mou, C., Emezue, C. C., Klamm, C., Leong, C., van Strien, D. A., Ifeoluwa Adelani, D., Radev, D., Ponferrada, E. G., Levkovizh, E., Kim, E., Natan, E. B., De Toni, F., Dupont, G., Kruszewski, G., <b>Pistilli, G.</b>, et al.
+  title: 'BLOOM: A 176B-Parameter Open-Access Multilingual Language Model'
   server: arXiv
+  pdf: https://arxiv.org/pdf/2211.05100.pdf
   selected: 1
-  video: https://www.youtube.com/watch?v=Fxyg2UMq_no&t=6341s
-  tags: 
-  - meta
-  - crit
-  - cail
 
+- date: 2022-11-01
+  type: conference
+  status: published
+  authors: Laurencon, H., Saulnier, L., Wang, T., Akiki, C., Villanova del Moral, A., Le Scao, T., von Werra, L., Mou, C., Gonzalez Ponferrada, E., Nguyen, H., Frohberg, J., Sasko, M., Lhoest, Q., McMillan-Major, A., Dupont, G., Biderman, S., Rogers, A., Ben allal, L., De Toni, F., <b>Pistilli, G.</b>, et al.
+  title: 'The BigScience ROOTS Corpus: A 1.6TB Composite Multilingual Dataset'
+  journal: Thirty-sixth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (NeurIPS)
+  pdf: https://hal.archives-ouvertes.fr/hal-03823922/document
+  selected: 1
 
-- date: 2025-09-06
+- date: 2022-03-01
+  type: journal
+  status: published
+  authors: <b>Pistilli, G.</b>
+  title: 'What lies behind AGI: ethical concerns related to LLMs'
+  journal: Éthique et Numérique
+  url: https://hal.archives-ouvertes.fr/hal-03607808
+  pdf: https://hal.archives-ouvertes.fr/hal-03607808/document
+  selected: 1
+
+- date: 2022-03-01
   type: preprint
-  status: unpublished
-  authors: <b>Guest, O.</b>, Suarez, M., Müller, B., et al.
-  title: "Against the Uncritical Adoption of 'AI' Technologies in Academia"
-  pdf: https://zenodo.org/records/17065099/files/Guest_etal_2025.pdf?download=1
-  doi: 10.5281/zenodo.17065099
-  server: Zenodo
+  status: published
+  authors: Johnson, R. L., <b>Pistilli, G.</b>, Menédez-González, N., Dias Duran, L. D., Panai, E., Kalpokiene, J., & Bertulfo, D. J.
+  title: 'The Ghost in the Machine has an American accent: value conflict in GPT-3'
+  server: arXiv
+  doi: 10.48550/arXiv.2203.07785
+  url: https://arxiv.org/abs/2203.07785
+  pdf: https://arxiv.org/pdf/2203.07785.pdf
   selected: 1
-  tags: 
-  - meta
-  - crit
-  - cail
 
-
-- date: 2025-10-03
-  type: preprint
-  status: unpublished
-  authors: <b>Guest, O.</b> & van Rooij, I.
-  title: "Critical Artificial Intelligence Literacy for Psychologists"
-  pdf: https://osf.io/dkrgj_v1/download/
-  doi: 10.31234/osf.io/dkrgj_v1
-  server: PsyArXiv
+- date: 2022-03-01
+  type: journal
+  status: published
+  authors: <b>Pistilli, G.</b>
+  title: 'La logique algorithmique confrontée à l''organisation de l''administration publique française'
+  journal: Giornale di Filosofia
+  pdf: https://mimesisjournals.com/ojs/index.php/giornale-filosofia/article/view/1699/1350
   selected: 1
-  tags: 
-  - meta
-  - crit
-  - cail
 
-
-
-
-
-- date: 2025-09-14
-  type: blog
+- date: 2022-03-01
+  type: misc
   status: published
-  authors: <b>Guest, O.</b>, van Rooij, I, Müller, B., & Suarez, M.
-  title: "No AI Gods, No AI Masters"
-  url: https://www.civicsoftechnology.org/blog/no-ai-gods-no-ai-masters
-  blog: Civics of Technology
-  selected: 3
-  tags: 
-  - cail
-
-- date: 2025-09-07
-  type: blog
-  status: published
-  authors:  Merchant, B.
-  title: Cognitive scientists and AI researchers make a forceful call to reject "uncritical adoption" of AI in academia
-  url: https://www.bloodinthemachine.com/p/cognitive-scientists-and-ai-researchers/
-  blog: Blood in the Machine
-  selected: 3
-  tags: 
-    - cail
-
-- date: 2025-06-12
-  type: blog
-  status: published
-  authors:  Suarez, M., Müller, B.,<b>Guest, O.</b>, & van Rooij, I.
-  title: "Critical AI Literacy: Beyond hegemonic perspectives on sustainability"
-  url: https://rcsc.substack.com/p/critical-ai-literacy-beyond-hegemonic
-  doi: 10.5281/zenodo.15677839
-  blog: Sustainability Dispatch
-  selected: 3
-  tags: 
-    - cail
-
-- date: 2024-09-29
-  type: blog
-  status: published
-  authors: van Rooij, I. & <b>Guest, O.</b>
-  title: "Don't believe the hype: AGI is far from inevitable"
-  url: https://www.ru.nl/en/research/research-news/dont-believe-the-hype-agi-is-far-from-inevitable
-  blog: Radboud University Research News
-  selected: 3
-  tags:
-  - cail
-
-- date: 2025-08-12
-  type: blog
-  status: published
-  authors: van Rooij, I.
-  title: AI slop and the destruction of knowledge
-  url: https://irisvanrooijcogsci.com/2025/08/12/ai-slop-and-the-destruction-of-knowledge/
-  doi: 10.5281/zenodo.16905560
-  blog: Iris van Rooij
-  selected: 3
-  tags:
-  - cail
-
-
-- date: 2025-10-06
-  type: blog
-  status: published
-  authors: Crawley, K.
-  title: "Anti Gen AI Heroes: Dr. Olivia Guest's Dire Warning to Academia"
-  url: https://stopgenai.com/anti-gen-ai-heroes-dr-olivia-guests-dire-warning-to-academia/
-  blog: Stop Gen AI
-  selected: 3
-  tags:
-  - cail
-
-
-- date: 2025-09-12
-  type: video
-  status: published
-  authors: "<b>Interviewers:</b> Kent Anderson & Joy Moore"
-  title: "Safeguarding Science from AI: An Interview with Olivia Guest and Iris van Rooij"
-  url: https://www.youtube.com/watch?v=p9w0FiHo1RU
-  selected: 4
-  tags:
-  - cail
-
-- date: 2025-10-14
-  type: video
-  status: published
-  authors: "<b>Organisers:</b> Leonard Block Santos, Barbara Müller, & Iris van Rooij"
-  title: "Critical AI Literacy: Empowering people to resist hype and harms in the age of AI — Symposium 2025"
-  url: https://www.youtube.com/watch?v=Fxyg2UMq_no
-  selected: 4
-  tags:
-  - cail
-
-
-- date: 2025-10-30
-  type: video
-  status: published
-  authors: "Millennials Are Killing Capitalism Live!"
-  title: "The Tech Industry's \"AI\" Play for Education Dollars with Dwayne Monroe"
-  url: https://www.youtube.com/live/sey7TS4JV68
-  selected: 4
-  tags:
-  - cail
-
-- date: 2025-10-17
-  type: news
-  status: published
-  authors: <b>Guest, O.</b> & van Rooij, I.
-  title: AI Is Hollowing Out Higher Education
-  url: https://www.project-syndicate.org/commentary/ai-will-not-save-higher-education-but-may-destroy-it-by-olivia-guest-and-iris-van-rooij-2025-10
-  selected: 3
-  tags:
-  - cail
-
-- date: 2025-10-21
-  type: news
-  status: published
-  authors:  Pearson, H.
-  title: "Universities are embracing AI: will students get smarter or stop thinking?"
-  journal: Nature
-  url: https://www.nature.com/articles/d41586-025-03340-w
-  selected: 3
-  tags:
-  - cail
-
-
-- date: 2025-10-24
-  type: news
-  status: published
-  authors:  Walraven, J.
-  title: "Belgian AI scientists resist the use of AI in academia"
-  journal: Apache
-  display-url: https://apache.be/2025/10/24/belgian-ai-scientists-resist-use-ai-academia
-  url: https://apache.be/2025/10/24/belgian-ai-scientists-resist-use-ai-academia?cdlnk=OFNhOGFlak5qRTE1cjhPbXR6eWMvL2VMRER0cVArcDNzT1Q0cjhVU3N2NVhYUG5GT3dKcjFsZVM2dDFPMyt5SVhVRStyQ3BvRVA4bTU5R1k5MnplSGc9PTo6YzQ1Mzc5NzAzODk5OTI2ZDkzNTY1NmUxNmQ3MjU5NTk%3D
-  selected: 3
-  tags:
-  - cail
-
-
-- date: 2025-10-26
-  type: news
-  status: published
-  authors:  Singer, N.
-  title: "Big Tech Makes Cal State Its A.I. Training Ground"
-  journal: New York Times
-  url: https://www.nytimes.com/2025/10/26/technology/cal-state-ai-amazon-openai.html
-  selected: 3
-  tags:
-  - cail
-
-- date: 2025-08-01
-  type: news
-  status: published
-  authors:  Kilgore, W.
-  title: "Can We Build AI Therapy Chatbots That Help Without Harming People?"
-  journal: Forbes
-  url: https://www.forbes.com/sites/weskilgore/2025/08/01/can-we-build-ai-therapy-chatbots-that-help-without-harming-people/
-  selected: 3
-  tags:
-  - cail
-
-- date: 2025-07-08
-  type: news
-  status: published
-  authors:   Huckins, G.
-  title: "How scientists are trying to use AI to unlock the human mind. Understanding the mind is hard. Understanding AI isn't much easier"
-  journal: MIT Technology Review
-  url: https://www.technologyreview.com/2025/07/08/1119777/scientists-use-ai-unlock-human-mind/
-  selected: 3
-  tags:
-  - cail
-
-
-
-- date: 2025-11-19
-  type: news
-  status: published
-  authors:   Glick, M.
-  title: "AI Might Not Harm Us in the Way You Think"
-  journal: Nautilus
-  url: https://nautil.us/ai-might-not-harm-us-in-the-way-you-think-1248498/
-  selected: 3
-  tags:
-  - cail
-
-
-- date: 2025-12-02
-  type: preprint
-  status: unpublished
-  authors: <b>Guest, O.</b>, Suarez, M., & van Rooij, I.
-  title: 'Towards Critical Artificial Intelligence Literacies'
-  doi: 10.5281/zenodo.17786243
-  pdf: https://zenodo.org/records/17786243/files/GuestSuarezvanRooij2025.pdf?download=1
-  server: Zenodo
+  authors: <b>Pistilli, G.</b> & Puech, M.
+  title: 'Journal issue, vol. 2: Technology and Constructive Critical Thought'
+  journal: Giornale di Filosofia
+  pdf: https://mimesisjournals.com/ojs/index.php/giornale-filosofia/issue/view/114
   selected: 1
-  tags:
-    - crit
-    - meta
-    - cail
