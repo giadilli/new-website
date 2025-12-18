@@ -356,6 +356,10 @@ li.right-social {
     width: 100%;
 }
 
+.header-col {
+    padding-top: 14rem;
+}
+
 .section-nav {
     display: flex;
     gap: 2rem;
