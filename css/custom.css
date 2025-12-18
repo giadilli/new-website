@@ -250,7 +250,7 @@ p a:hover, li a:hover {
 }
 
 .content {
-    margin-top: 8rem;
+    margin-top: 3rem;
 }
 
 .column {
@@ -349,6 +349,30 @@ li.right-social {
     opacity: 1 !important;
     border-radius: 10px;
     object-fit: contain;
+}
+
+.pfp-header {
+    max-width: 320px;
+    width: 100%;
+}
+
+.section-nav {
+    display: flex;
+    gap: 2rem;
+    padding: 1rem 0;
+    margin-bottom: 1rem;
+}
+
+.section-nav .nav-link {
+    font-family: 'Borel', serif;
+    font-size: 2rem;
+    color: light-dark(var(--light-h), var(--dark-h));
+    text-decoration: none;
+    transition: opacity 0.2s ease;
+}
+
+.section-nav .nav-link:hover {
+    opacity: 0.7;
 }
 
 @media screen and (max-width: 725px) {
@@ -562,4 +586,9 @@ thead {width: 100%; border-bottom:0.2rem solid light-dark(var(--light-tb), var(-
         #navbar {
             position: absolute;
         }
+}
+
+/* Vertically align row items in the middle */
+.row.align-middle {
+    align-items: center;
 }
