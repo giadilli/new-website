@@ -1,3 +1,10 @@
+# Robots.txt for giadapistilli.com
+
 User-agent: *
-Disallow: /private
+Allow: /
+
+# Disallow private directories
 Disallow: /private/
+
+# Sitemap location
+Sitemap: https://giadapistilli.com/sitemap.xml
