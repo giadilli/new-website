@@ -285,7 +285,8 @@ li.menu-item
     text-indent: -1rem;
     list-style-type: none;
     padding-bottom: 0.5rem;
-    text-align: left;
+    text-align: justify;
+    display: block;
 }
 
 .bullet {
@@ -601,6 +602,14 @@ thead {width: 100%; border-bottom:0.2rem solid light-dark(var(--light-tb), var(-
 /* Vertically align row items in the middle */
 .row.align-middle {
     align-items: center;
+}
+
+/* Add spacing between projects and media columns */
+@media screen and (min-width: 768px) {
+    .row .col-6-md:first-child,
+    .row .col-6-lg:first-child {
+        padding-right: 3rem;
+    }
 }
 
 .pt-4 {
