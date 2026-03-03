@@ -1,11 +1,22 @@
-- date: 2025-08-20
-  type: preprint
+- date: 2026-05-01
+  type: conference
   status: published
   authors: Kaffee, L. A., <b>Pistilli, G.</b>, & Jernite, Y.
   title: 'INTIMA: A Benchmark for Human-AI Companionship Behavior'
-  server: arXiv
+  journal: Proceedings of the International Conference on Learning Representations (ICLR 2026)
   url: https://arxiv.org/abs/2508.09998
   pdf: https://arxiv.org/pdf/2508.09998
+  selected: 1
+
+- date: 2025-06-27
+  type: preprint
+  status: published
+  authors: <b>Pistilli, G.</b> & Trevelin, B.
+  title: 'Can AI be Consentful?'
+  server: arXiv
+  url: https://arxiv.org/abs/2507.01051
+  pdf: https://arxiv.org/pdf/2507.01051
+  doi: 10.48550/arXiv.2507.01051
   selected: 1
 
 - date: 2025-04-01
