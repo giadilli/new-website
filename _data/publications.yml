@@ -1,3 +1,13 @@
+- date: 2026-05-26
+  type: journal
+  status: published
+  authors: Bazerbachi, N., Bentegeac, R., <b>Pistilli, G.</b>, Kim, S.-H., Amouyel, P., Pruvo, J.-P., Hacein-Bey, L., Hamroun, A., Kuchcinski, G., & Le Guellec, B.
+  title: 'Cultural bias in large language models'' ability to follow neuroradiology guidelines'
+  journal: European Radiology
+  doi: 10.1007/s00330-026-12634-0
+  url: https://link.springer.com/article/10.1007/s00330-026-12634-0
+  selected: 1
+
 - date: 2026-05-01
   type: conference
   status: published
