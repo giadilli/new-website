@@ -1,3 +1,13 @@
+- date: 2026-08-01
+  type: journal
+  status: published
+  authors: Palminteri, S. & <b>Pistilli, G.</b>
+  title: 'The cognitive biases that may exacerbate inflationary and deflationary positions about large language models'
+  journal: Current Opinion in Behavioral Sciences
+  doi: 10.1016/j.cobeha.2026.101670
+  url: https://www.sciencedirect.com/science/article/pii/S2352154626000367
+  selected: 1
+
 - date: 2026-05-26
   type: journal
   status: published
@@ -47,16 +57,6 @@
   server: arXiv
   url: https://arxiv.org/abs/2504.00797
   pdf: https://arxiv.org/pdf/2504.00797
-  selected: 1
-
-- date: 2025-03-01
-  type: preprint
-  status: published
-  authors: Palminteri, S. & <b>Pistilli, G.</b>
-  title: 'The Cognitive Biases Behind Inflationary and Deflationary Claims about Large Language Models'
-  server: PsyArXiv
-  url: https://osf.io/preprints/psyarxiv/26tyu_v2
-  pdf: https://osf.io/26tyu_v2/download/
   selected: 1
 
 - date: 2025-02-01
